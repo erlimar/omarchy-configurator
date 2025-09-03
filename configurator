@@ -10,7 +10,7 @@ OMARCHY_LOGO='
 ███   ███  ███   ███   ███  ███   ███ ██████████  ███   █▄   ███   ███  ▄██   ███
 ███   ███  ███   ███   ███  ███   ███  ███   ███  ███   ███  ███   ███  ███   ███
  ▀█████▀    ▀█   ███   █▀   ███   █▀   ███   ███  ███████▀   ███   █▀    ▀█████▀ 
-                                       ███   █▀                                  '
+                                       ███   █▀                        by Erlimar'
 
 # Install prerequisites
 if ! command -v gum >/dev/null || ! command -v iwctl >/dev/null; then
